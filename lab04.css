@@ -1,0 +1,49 @@
+#pageheader{
+    background-color: blue;
+    color: white;
+}
+.divclass{
+    background-color: lightgray;
+    color: black;
+
+}
+#divpar{
+    color: red;
+}
+.para{
+    background-color: green;
+    
+}
+/*Ask about highlight */
+
+#divtext{
+background-color: yellow;
+}
+
+#centretext{
+    text-align: center;
+}
+.no-underline{
+    text-decoration: none;
+}
+.dashed-line{
+    text-decoration: underline dashed;
+}
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+#Arialbody{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+#last-heading{
+    text-transform: uppercase;
+}
+.capitalise{
+    text-transform: capitalize;
+}
